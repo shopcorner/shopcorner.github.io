@@ -1,18 +1,38 @@
 .jumbotron img {
     width: 200px;
-    border: 5px solid #333;
+    border: 5px solid lightblue;
 }
 
-.about hr {
+
+hr {
     width: 200px;
-    border-top: 2px solid #123;
+    border-top: 2px solid lightblue;
     
 }
 
+h2 {
+    color: orangered;
+}
+
+.promo {
+    color: lightblue;
+    font-display: block;
+    font-display: optional;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.promo1 {
+    color: blueviolet;
+    font-family: sans-serif;
+    font-display: fallback;
+    font-size: 40px;
+    font-style: italic;
+}
 .section {
     min-height: 600px;
 }
 
 .produk {
-    background-color: peru;
+    background-color: lightblue;
 }
