@@ -1,8 +1,43 @@
+html {
+    position: relative;
+}
+
+
+.navbar-brand {
+    min-height: 10px;
+}
+body {
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.jumbotron {
+    background-color: bisque;
+}
+
 .jumbotron img {
     width: 200px;
     border: 5px solid lightblue;
+    margin-top: 20px;
 }
 
+.jumbotron h1 {
+    color: dodgerblue;
+}
+
+.jumbotron .telp {
+    color: orangered;
+}
 
 hr {
     width: 200px;
@@ -36,3 +71,60 @@ h2 {
 .produk {
     background-color: lightblue;
 }
+
+.contact {
+    min-height: 800px;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-color: #333;
+    padding-top: 30px;
+
+}
+
+footer p {
+    color: #aaa;
+    font-size: 1,5em;
+}
+
+footer p i {
+    color: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
