@@ -4,7 +4,6 @@ html {
 
 
 .navbar {
-    height: 70px;
     background-color: dodgerblue;
 }
 
@@ -17,20 +16,9 @@ body {
     margin-top: 30px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 .jumbotron {
     background-color: bisque;
-    min-height: 450px;
+    min-height: 600px;
 }
 
 .jumbotron img {
@@ -49,8 +37,9 @@ body {
 }
 
 
-.about {
+.tentangkami {
     margin-top: 50px;
+    min-height: 500px;
 }
 hr {
     width: 200px;
@@ -61,14 +50,17 @@ hr {
 h2 {
     color: orangered;
 }
-
-.promo {
+#promo3 {
+    background-color: bisque;
+}
+.promo2 {
     margin-top: 50px;
     color: lightblue;
     font-display: block;
     font-display: optional;
     font-family: sans-serif;
     font-size: 50px;
+    text-align: center;
 }
 
 .promo1 {
@@ -92,8 +84,7 @@ h2 {
 }
 
 
-.contact-baru {
-    min-height: 400px;
+.kontak {
     margin-top: 50px;
 }
 
