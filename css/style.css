@@ -18,7 +18,7 @@ body {
 
 .jumbotron {
     background-color: bisque;
-    min-height: 600px;
+    
 }
 
 .jumbotron img {
@@ -114,6 +114,13 @@ footer p i {
     color: ;
 }
 
+h2 {
+    padding-top:25pt;
+}
+
+.image-width-full {
+    width:100%;
+}
 
 
 
