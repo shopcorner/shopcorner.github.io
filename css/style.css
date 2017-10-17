@@ -49,6 +49,7 @@ hr {
 
 h2 {
     color: orangered;
+    padding-top:25pt;
 }
 #promo3 {
     background-color: bisque;
@@ -69,6 +70,9 @@ h2 {
     font-display: fallback;
     font-size: 40px;
     font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
 }
 .section {
     min-height: 600px;
@@ -77,10 +81,6 @@ h2 {
 .produk {
     margin-top: 50px;
     background-color: lightblue;
-}
-
-.contact {
-    min-height: 800px;
 }
 
 
@@ -114,9 +114,6 @@ footer p i {
     color: ;
 }
 
-h2 {
-    padding-top:25pt;
-}
 
 .image-width-full {
     width:100%;
