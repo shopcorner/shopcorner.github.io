@@ -51,7 +51,20 @@ h2 {
     color: orangered;
     padding-top:25pt;
 }
-#promo3 {
+.promo4 {
+    color: red;
+    font-size: 30px;
+    font-display: auto;
+    text-align: center;
+    font-family: fantasy;
+    animation-duration: 1000ms;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+        
+}
+
+.promo3 {
     background-color: bisque;
 }
 .promo2 {
@@ -74,6 +87,11 @@ h2 {
     text-decoration: underline;
     text-align: center;
 }
+
+.harga-promo{
+    font-weight: bold;
+}
+
 .section {
     min-height: 600px;
 }
