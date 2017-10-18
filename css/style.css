@@ -30,7 +30,9 @@ body {
 
 .jumbotron h1 {
     color: dodgerblue;
+    font-size: 65px;
 }
+
 
 .jumbotron .telp {
     color: orangered;
@@ -50,23 +52,17 @@ hr {
 h2 {
     color: orangered;
     padding-top:25pt;
+    padding-bottom: 25pt;
+    font-size: 55px;
 }
-.promo4 {
-    color: red;
-    font-size: 30px;
-    font-display: auto;
-    text-align: center;
-    font-family: fantasy;
-         
+
+.promo1 {
+    background-color: bisque;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .promo3 {
-    background-color: bisque;
-}
-
-
-
-.promo1 {
     color: blueviolet;
     font-family: sans-serif;
     font-display: fallback;
@@ -76,6 +72,18 @@ h2 {
     text-decoration: underline;
     text-align: center;
 }
+
+
+.promo4 {
+    color: red;
+    font-size: 30px;
+    font-display: auto;
+    text-align: center;
+    font-family: fantasy;
+         
+}
+
+
 
 .harga-promo{
     font-weight: bold;
