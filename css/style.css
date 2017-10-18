@@ -57,25 +57,14 @@ h2 {
     font-display: auto;
     text-align: center;
     font-family: fantasy;
-    animation-duration: 1000ms;
-    animation-name: blink;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-        
+         
 }
 
 .promo3 {
     background-color: bisque;
 }
-.promo2 {
-    margin-top: 50px;
-    color: lightblue;
-    font-display: block;
-    font-display: optional;
-    font-family: sans-serif;
-    font-size: 50px;
-    text-align: center;
-}
+
+
 
 .promo1 {
     color: blueviolet;
