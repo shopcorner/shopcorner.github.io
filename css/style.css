@@ -54,6 +54,11 @@ h2 {
     font-size: 55px;
 }
 
+h3 {
+    color:red;
+    padding-top: 40pt;
+}
+
 .promo1 {
     background-color: bisque;
     padding-top: 20px;
