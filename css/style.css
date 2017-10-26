@@ -86,7 +86,10 @@ h3 {
          
 }
 
-
+.promo5 {
+    color: orangered;
+    font-family: cursive;
+}
 
 .harga-promo{
     font-weight: bold;
