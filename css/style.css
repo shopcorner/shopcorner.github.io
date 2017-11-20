@@ -4,8 +4,19 @@ html {
 
 
 .navbar {
-    background-color: dodgerblue;
-    
+    background-color: dodgerblue;  
+}
+
+#brand .navbar-brand page-scroll:hover{
+    color: white;
+}
+
+.navbar-brand page-scroll:hover{
+    color: white;
+}
+
+#bs-example-navbar-collapse-1 .page-scroll:hover{
+    color: white;
 }
 
 
@@ -47,6 +58,11 @@ hr {
     
 }
 
+#deskripsi{
+    font-family: sans-serif;
+    
+} 
+
 h2 {
     color: orangered;
     padding-top:25pt;
@@ -57,6 +73,13 @@ h2 {
 h3 {
     color:orangered;
     padding-top: 40pt;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 20px;
+    color: whitesmoke;
+    text-decoration: underline;
 }
 
 .promo1 {
@@ -89,6 +112,7 @@ h3 {
 .promo5 {
     color: orangered;
     font-family: cursive;
+    font-weight: bold;
 }
 
 .harga-promo{
@@ -103,7 +127,6 @@ h3 {
     margin-top: 50px;
     background-color: lightblue;
 }
-
 
 .kontak {
     margin-top: 50px;
@@ -134,6 +157,15 @@ footer p {
 
 .image-width-full {
     width:100%;
+}
+
+#kontak .contact:hover{
+    color: orangered;
+}
+
+#email {
+    color: dodgerblue;
+    text-decoration: underline;
 }
 
 

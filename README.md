@@ -1,0 +1,1 @@
+# shopcorner.github.io
